@@ -5,10 +5,10 @@
 
 
 # 💫 About Me :
-- 😄 Pronouns: He/His
-- 🔭 I’m currently making a Portfolio Website.
-- 🌱 I’m currently learning more about Frontend Web development.
-- 🔮 I'm currently Solving challenges and problems related to CTF's and DSA.
+- 😄 Final Year Student at UPES
+- 🔭 I’m currently Skilling Up and Grinding DSA.
+- 🌱 I’m currently learning more about MERN stack.
+- 🔮 I'm currently Solving challenges related to CTF's.
 - 💬 Ask me about any tech-related stuff.
 - ⚡ Fun fact: I Love to Beatbox.
 
