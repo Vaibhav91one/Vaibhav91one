@@ -9,5 +9,4 @@
 - Some technologies I enjoy working with is JS/TS (React & Next)
 
 
-## 💻 Tech Stack
-- 🚀 Next.js | React | JavaScript | TypeScript | ShadCN | TailwindCSS
+*"Try building it, and you'll gain experience. Avoid it, and you'll never know what was possible."*
