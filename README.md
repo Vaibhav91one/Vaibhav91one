@@ -5,7 +5,7 @@
 
 
 ## 💫 About Me :
-- I'm a software dev who is passionate about making contribution to open-source, learning about new tech and creating application.
+- I'm a software dev who is passionate about building applications, contributing to open-source, learning and implementing new tech.
 - Some technologies I enjoy working with is JS/TS (React & Next)
 
 
